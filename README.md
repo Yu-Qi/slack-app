@@ -6,7 +6,7 @@
 
    - 用戶安裝 app 時，slack server 會跟用戶確認，其 app 所需要的授權，接著 slack server 會與 app(oauth client)，透過 oauth 完成用戶資料驗證並且取得
 
-2. ## `/event`
+2. `/event`
 
    - `workflow_step_execute`: ，我們會收到用戶根據我們自訂的這個 step 需要填寫的資料
 
